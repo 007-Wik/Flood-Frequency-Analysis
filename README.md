@@ -415,10 +415,10 @@ If you use this analysis or dataset in your work, please cite:
 @misc{karad_ffa_2024,
   title     = {Flood Frequency Analysis of the Krishna River at Karad Bridge:
                A Multi-Method Study with Bayesian and Machine Learning Extensions},
-  author    = {[Author Name]},
+  author    = {[Satwik LK.Udupi]},
   year      = {2024},
   note      = {57-year Annual Maximum Discharge Record, AK000X6, Maharashtra, India},
-  url       = {https://github.com/YOUR_USERNAME/FFA-Krishna-Karad}
+  url       = {https://github.com/007-wik/FFA-Krishna-Karad}
 }
 ```
 
